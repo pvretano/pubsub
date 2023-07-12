@@ -231,6 +231,7 @@ The following people support this proposal and are committed to the Charter and 
 | Steve Olson| mailto:steve.r.olson@noaa.gov[steve.r.olson@noaa.gov]| NOAA
 | Tom Kralidis| mailto:tom.kralidis@ec.gc.ca[tom.kralidis@ec.gc.ca]| Meteorological Service of Canada
 | Clemens Portele| mailto:portele@interactive-instruments.de[portele@interactive-instruments.de]| interactive instruments
+| Panagiotis (Peter) A. Vretanos |mailto:pvretano@cubewerx.com[pvretano@cubewerx.com |MariaDB (fomerly CubeWerx Inc.)
 | FirstName LastName| mailto:example@example.org[example@example.org]| Example
 | FirstName LastName| mailto:example@example.org[example@example.org]| Example
 | FirstName LastName| mailto:example@example.org[example@example.org]| Example
